@@ -5,7 +5,7 @@
 <regex>
 <name>Kratos_Regex_1</name>
 <expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
-<page>http://www.redecanais.net//12-monkeys-1a-temporada-episodio-01-estilhaco_87824050b.html</page>
+<page>http://www.redecanais.top/12-monkeys-1a-temporada-episodio-01-estilhaco_87824050b.html</page>
 </regex>
 <regex>
 <name>Kratos_Regex</name>
