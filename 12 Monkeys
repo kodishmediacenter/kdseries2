@@ -1,82 +1,1411 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<layoutype>thumbnail</layoutype>
-<item><title>12 Monkeys Dub",1x1 - 12 Monkeys
-</title><server10>12MONKT01EP01</server10><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",1x2 - 12 Monkeys
-</title><server10>12MONKT01EP02</server10><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",1x3 - 12 Monkeys
-</title><server10>12MONKT01EP03</server10><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",1x4 - 12 Monkeys
-</title><server10>12MONKT01EP04</server10><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",1x5 - 12 Monkeys
-</title><server10>12MONKT01EP05</server10><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",1x6 - 12 Monkeys
-</title><server10>12MONKT01EP06</server10><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",1x7 - 12 Monkeys
-</title><server10>12MONKT01EP07</server10><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",1x8 - 12 Monkeys
-</title><server10>12MONKT01EP08</server10><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",1x9 - 12 Monkeys
-</title><server10>12MONKT01EP09</server10><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",1x10 - 12 Monkeys
-</title><server10>12MONKT01EP10</server10><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",1x11 - 12 Monkeys
-</title><server10>12MONKT01EP11</server10><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",1x12 - 12 Monkeys
-</title><server10>12MONKT01EP12</server10><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",1x13 - 12 Monkeys
-</title><server10>12MONKT01EP13</server10><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
 
-<item><title>12 Monkeys Dub",2x1 - 12 Monkeys
-</title><server12>12MONKT01EP01</server12><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",2x2 - 12 Monkeys
-</title><server12>12MONKT01EP02</server12><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",2x3 - 12 Monkeys
-</title><server12>12MONKT01EP03</server12><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",2x4 - 12 Monkeys
-</title><server12>12MONKT01EP04</server12><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",2x5 - 12 Monkeys
-</title><server12>12MONKT01EP05</server12><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",2x6 - 12 Monkeys
-</title><server12>12MONKT01EP06</server12><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",2x7 - 12 Monkeys
-</title><server12>12MONKT01EP07</server12><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",2x8 - 12 Monkeys
-</title><server12>12MONKT01EP08</server12><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",2x9 - 12 Monkeys
-</title><server12>12MONKT01EP09</server12><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",2x10 - 12 Monkeys
-</title><server12>12MONKT01EP10</server12><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",2x11 - 12 Monkeys
-</title><server12>12MONKT01EP11</server12><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",2x12 - 12 Monkeys
-</title><server12>12MONKT01EP12</server12><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",2x13 - 12 Monkeys
-</title><server12>12MONKT01EP13</server12><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
+<item>
+<title>[B][COLORwhite]1x[Dub] S1 E01 Estilhaço [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-episodio-01-estilhaco_87824050b.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
 
-<item><title>12 Monkeys Dub",3x1 - 12 Monkeys
-</title><server13>12MONKT01EP01</server13><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",3x2 - 12 Monkeys
-</title><server13>12MONKT01EP02</server13><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",3x3 - 12 Monkeys
-</title><server13>12MONKT01EP03</server13><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",3x4 - 12 Monkeys
-</title><server13>12MONKT01EP04</server13><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",3x5 - 12 Monkeys
-</title><server13>12MONKT01EP05</server13><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",3x6 - 12 Monkeys
-</title><server13>12MONKT01EP06</server13><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",3x7 - 12 Monkeys
-</title><server13>12MONKT01EP07</server13><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",3x8 - 12 Monkeys
-</title><server13>12MONKT01EP08</server13><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",3x9 - 12 Monkeys
-</title><server13>12MONKT01EP09</server13><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",3x10 - 12 Monkeys
-</title><server13>12MONKT01EP10</server13><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",3x11 - 12 Monkeys
-</title><server13>12MONKT01EP11</server13><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",3x12 - 12 Monkeys
-</title><server13>12MONKT01EP12</server13><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
-<item><title>12 Monkeys Dub",3x13 - 12 Monkeys
-</title><server13>12MONKT01EP13</server13><thumbnail>http://geekinitiative.com/wp-content/uploads/2015/03/12-monkeys-2.jpg</thumbnail><fanart></fanart></item>
+<item>
+<title>[B][COLORwhite]1x[Leg] S1 E01 Estilhaço [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-legendado-episodio-01-estilhaco_9df1af793.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S1 E02 Mentalmente Divergente [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-episodio-02-mentalmente-divergente_ebb4f636a.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S1 E02 Mentalmente Divergente [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-legendado-episodio-02-mentalmente-divergente_6973cdbaf.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S1 E03 Complexo de Cassandra [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-episodio-03-complexo-de-cassandra_73a5aceed.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S1 E03 Complexo de Cassandra [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-legendado-episodio-03-complexo-de-cassandra_bf01460ec.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S1 E04 Atari [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-episodio-04-atar_840161f91.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S1 E04 Atari [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-legendado-episodio-04-atari_f667a5c35.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S1 E05 O Quarto de Noite [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-episodio-05-o-quarto-de-noitei_e48149440.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S1 E05 O Quarto de Noite [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-legendado-episodio-05-o-quarto-de-noite_62ae2cf31.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S1 E06 A Floresta Vermelha [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-episodio-06-a-floresta-vermelha_ca5a657c1.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S1 E06 A Floresta Vermelha [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-legendado-episodio-06-a-floresta-vermelha_3b8adca0b.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S1 E07 As Chaves [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-episodio-07-as-chaves_c311047cb.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S1 E07 As Chaves [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-legendado-episodio-07-as-chaves_93598371f.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S1 E08 Ontem [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-episodio-08-ontem_ab9f6c17d.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S1 E08 Ontem [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-legendado-episodio-08-ontem_4923365da.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S1 E09 Amanhã [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-episodio-09-amanha_fc8fd571f.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S1 E09 Amanhã [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-legendado-episodio-09-amanha_c1a2d6e0c.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S1 E10 Movimento Divino [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-episodio-10-movimento-divino_71fae4818.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S1 E10 Movimento Divino [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-legendado-episodio-10-movimento-divino_961dc7de2.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S1 E11 Shonin [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-episodio-11-shonin_b15fe058d.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S1 E11 Shonin [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-legendado-episodio-11-shonin_b2e607990.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S1 E12 Paradoxo [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-episodio-12-paradoxo_ef2bf14bf.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S1 E12 Paradoxo [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-legendado-episodio-12-paradoxo_01d90eb66.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S1 E13 Meus Braços [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-episodio-13-meus-bracos_5cde0bfd7.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S1 E13 Meus Braços [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-1a-temporada-legendado-episodio-13-meus-bracos_e9420df48.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S2 E01 Ano do Macaco [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-episodio-01-ano-do-macaco_76ca5da14.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S2 E01 Ano do Macaco [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-legendado-episodio-01-ano-do-macaco_a6d35a997.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S2 E02 Primário [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-episodio-02-primario_736ec1a04.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S2 E02 Primário [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-legendado-episodio-02-primario_784e80fc7.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S2 E03 Cem Anos [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-episodio-03-cem-anos_8e59706f0.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S2 E03 Cem Anos [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-legendado-episodio-03-cem-anos_7448e9e56.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S2 E04 Emergência [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-episodio-04-emergencia_85d3540d6.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S2 E04 Emergência [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-legendado-episodio-04-emergencia_a7b1e59f5.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S2 E05 Corpos de Água [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-episodio-05-corpos-de-agua_1b43a849e.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S2 E05 Corpos de Água [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-legendado-episodio-05-corpos-de-agua_00c04afdb.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S2 E06 Imortal [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-episodio-06-imortal_2494e8b12.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S2 E06 Imortal [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-legendado-episodio-06-imortal_94d30df92.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S2 E07 Fusão [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-episodio-07-fusao_6ded294cb.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S2 E07 Fusão [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-legendado-episodio-07-fusao_396fce6cc.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S2 E08 Canção de Ninar [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-episodio-08-cancao-de-ninar_a34a12ac7.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S2 E08 Canção de Ninar [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-legendado-episodio-08-cancao-de-ninar_362eb199d.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S2 E09 Hiena [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-episodio-09-hiena_1b1a5ffb2.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S2 E09 Hiena [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-legendado-episodio-09-hiena_6fc3ecf5d.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S2 E10 Pátria [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-episodio-10-patria_20a4d6659.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S2 E10 Pátria [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-legendado-episodio-10-patria_767ecbec0.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S2 E11 Ressurreição [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-episodio-11-ressurreicao_e26b57657.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S2 E11 Ressurreição [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-legendado-episodio-11-ressurreicao_5fb6ff814.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S2 E12 Sangue Lavado [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-episodio-12-sangue-lavado_735f649b3.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S2 E12 Sangue Lavado [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-legendado-episodio-12-sangue-lavado_586357f3c.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S2 E13 Memória do Futuro [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-episodio-13-memoria-do-futuro_1a0556110.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S2 E13 Memória do Futuro [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-2a-temporada-legendado-episodio-13-memoria-do-futuro_c6d1dc875.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S3 E01 Mãe [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-3a-temporada-episodio-01-mae_6817bac10.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S3 E01 Mãe [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-3a-temporada-legendado-episodio-01-mae_970aa3600.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S3 E02 Guardiões [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-3a-temporada-episodio-02-guardioes_ad13afa3f.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S3 E02 Guardiões [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-3a-temporada-legendado-episodio-02-guardioes_cb73b1dd3.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S3 E03 Inimigo [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-3a-temporada-episodio-03-inimigo_049e85235.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S3 E03 Inimigo [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-3a-temporada-legendado-episodio-03-inimigo_0ec1cd834.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S3 E04 Irmãos [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-3a-temporada-episodio-04-irmaos_04836f4c6.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S3 E04 Irmãos [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-3a-temporada-legendado-episodio-04-irmaos_c5c8f625e.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S3 E05 Acidente [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-3a-temporada-episodio-05-acidente_31d5cd091.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S3 E05 Acidente [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-3a-temporada-legendado-episodio-05-acidente_bd80cfcb7.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S3 E06 Natural [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-3a-temporada-episodio-06-natural_dae631671.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S3 E06 Natural [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-3a-temporada-legendado-episodio-06-natural_e8dc33a82.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S3 E07 Natural [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-3a-temporada-episodio-07-natural_6546c21cf.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S3 E07 Natural [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-3a-temporada-legendado-episodio-07-natural_6749d1b3c.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S3 E08 Máscaras [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-3a-temporada-episodio-08-mascaras_02f775769.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S3 E08 Máscaras [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-3a-temporada-legendado-episodio-08-mascaras_76e1dc15f.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S3 E09 Ladrão [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-3a-temporada-episodio-09-ladrao_32b6806fa.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S3 E09 Ladrão [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-3a-temporada-legendado-episodio-09-ladrao_67e66e9e1.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Dub] S3 E10 Testemunha [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-3a-temporada-episodio-10-testemunha_5905bc0eb.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x[Leg] S3 E10 Testemunha [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-3a-temporada-legendado-episodio-10-testemunha_93ebfd5f1.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x01 O Fim [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-4a-temporada-legendado-episodio-01-o-fim_ef5ca07eb.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x02 Ouroboros [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-4a-temporada-legendado-episodio-02-ouroboros_5be5b569b.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x03 45 RPM [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-4a-temporada-legendado-episodio-03-45-rpm_7b9234980.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x04 Legado [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-4a-temporada-legendado-episodio-04-legado_2e541dac2.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x05 Depois [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-4a-temporada-legendado-episodio-05-depois_5a3135b11.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x06 O Sino [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-4a-temporada-legendado-episodio-06-o-sino_4b5f57d5b.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x07 Filhas [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-4a-temporada-legendado-episodio-07-filhas_b8ff5026c.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x08 Demônios [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-4a-temporada-legendado-episodio-08-demonios_2cf015990.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x09 Um Minuto A Mais [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-4a-temporada-legendado-episodio-09-um-minuto-a-mais_09fd98224.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x10 O Início (Parte 1) [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-4a-temporada-legendado-episodio-10-o-inicio-parte-1_57ce35a09.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORwhite]1x11 O Início (Parte 2) [/COLOR][/B]</title>
+<link>$doregex[Kratos_Regex]</link>
+<regex>
+<name>Kratos_Regex_1</name>
+<expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>]]></expres>
+<page>http://www.redecanais.net//12-monkeys-4a-temporada-legendado-episodio-11-o-inicio-parte-2_d5912cd70.html</page>
+</regex>
+<regex>
+<name>Kratos_Regex</name>
+<expres><![CDATA[file: "(.*?)",]]></expres>
+<page>$doregex[Kratos_Regex_1]</page>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/hCl5HObevnBr0M2FwGUxp93GciK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2KF54M53ihULBNMRKVagtcprMT.jpg</thumbnail>
+</item>
